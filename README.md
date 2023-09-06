@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently looking for my first job like Dev
 - 🌱 I’m currently learning Java Script and React
-- 📫 How to reach me: eliseu965@gmail.com
 - 🧑🏻 About me: I love technology, watching movies and read a good book.
 
   <div>
