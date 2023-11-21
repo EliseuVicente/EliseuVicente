@@ -1,6 +1,6 @@
 ### Hi there, I'm Eliseu Vicente 👋
 
-- 🔭 I’m currently Workink like a Front-end developer
+- 🔭 I’m currently Working like a Front-end developer
 - 🌱 I’m currently learning Java Script and React
 - 🧑🏻 About me: I love technology, watching movies and read a good book.
 
